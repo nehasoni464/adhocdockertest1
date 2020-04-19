@@ -1,0 +1,11 @@
+######## SOLUTION 1
+docker build -t alpine:neha .
+docker run -it --name nehac1q1 alpine:neha
+docker run alpine: neha >> nehaa.text
+docker run alphine:neha
+
+
+
+########solution 3
+docker run -d --name nehaac3q3 -p 1600:80 dockerashu/ckad:v2
+http://52.204.127.145:1600/
